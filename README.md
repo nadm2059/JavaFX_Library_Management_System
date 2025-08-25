@@ -1,6 +1,4 @@
-Here’s your **README** in proper Markdown format ready for GitHub:
 
-```markdown
 # Smart Library Management System
 
 A **Java-based Library Management System** with **CLI and JavaFX GUI** support, featuring user roles, book catalog management, borrowing/returning functionality, a recommendation engine, and CSV-based persistence.
